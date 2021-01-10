@@ -1,4 +1,4 @@
-## Hi, I'm Alcides Queiroz 👋
+## Hi, I'm Alcides Queiroz 👋🏽
 
 > My website: https://alcidesqueiroz.com
 
