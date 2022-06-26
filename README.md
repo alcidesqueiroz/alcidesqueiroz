@@ -4,7 +4,7 @@
 
 <img src="https://www.alcidesqueiroz.com/images/ani-alcides-about.gif" width="250"/>
 
-I'm a Brazilian **front-end engineer** and **JavaScript hacker** based in Amsterdam/Netherlands.
+I'm a Brazilian **front-end engineer** and **JavaScript hacker** based in São Paulo/Brazil.
 
 I love to write clean and maintainable code. 
 
