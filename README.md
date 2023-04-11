@@ -8,7 +8,7 @@ I'm a **front-end engineer** and **JavaScript hacker** based in São Paulo/Brazi
 
 I love to write clean and maintainable code. 
 
-These days, I’m working mainly with React, Redux, TypeScript, React Query, Recoil, Tailwind CSS, styled-components, React Native, Next.js, Angular 2+, Sass, Stylus React, Redux, TypeScript, React Query, Recoil, Tailwind CSS, styled-components, React Native, Next.js, Angular 2+, Sass, Stylus and some other stuff.
+These days, I’m working mainly with **React**, **Redux**, **TypeScript**, **React Query**, **Recoil**, **Tailwind CSS**, **styled-components**, **React Native**, **Next.js**, **Angular 2+**, **Sass**, **Stylus React**, **Redux**, **TypeScript**, **React Query**, **Recoil**, **Tailwind CSS**, **styled-components**, **React Native**, **Next.js**, **Angular 2+**, **Sass**, **Stylus** and some other stuff.
 
 Whenever I have free time, I like to write technical articles on [Medium](https://medium.com/@alcidesqueiroz) and to contribute to [F/OSS](https://github.com/alcidesqueiroz).
 
